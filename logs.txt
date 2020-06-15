@@ -1,0 +1,2 @@
+Mon Jun 15 2020 11:37:08 GMT-0400 (Eastern Daylight Time) 59125625-1270-4c39-a88b-de8f116ccaf9 hello World
+Mon Jun 15 2020 11:37:08 GMT-0400 (Eastern Daylight Time) bf2727dc-0cec-4b15-807c-30094e5f9be3 another log
